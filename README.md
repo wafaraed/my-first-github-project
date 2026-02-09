@@ -1,3 +1,3 @@
 # my-first-github-project
-Practice project to learn Git and GitHub basics
-git merge feature-1
+this change is frome feature-1 branch
+commit on main branch
